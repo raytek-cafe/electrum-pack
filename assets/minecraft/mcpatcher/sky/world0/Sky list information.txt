@@ -1,0 +1,23 @@
+Sky information
+
+Sky1 is Old Night Sky
+Sky2 is rain
+Sky3 is thunderstorm
+
+*****
+Information for rain.png, thunder.png
+
+They are used to solve a bug that occurs with Optifine:
+When using a custom sky such as sky0 (assets\minecraft\optifine\colormap\sky0),
+the sky becomes too saturated when it rains, snows or when there is thunder.
+
+rain.png and thunder.png restore the classic sky color.
+
+*****
+greystars.png information
+
+greystars.png is the Old Night Sky (between Beta 1.5 and 1.2.5). Stars are more grey than the Old Night Sky (pre-Beta 1.5).
+
+If you want to use it:
+delete night.png
+and rename greystars.png as night.png
