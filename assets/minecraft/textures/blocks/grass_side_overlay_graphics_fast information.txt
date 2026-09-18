@@ -1,6 +1,0 @@
-grass_side_overlay_graphics_fast.png information
-
-This is the default side of grass blocks (pre-Beta 1.5). It is not affected by the biome temperature.
-It was possible to have it with "Graphics: Fast" until version 1.7.10.
-
-To use it, rename the file as grass_side_overlay.png
