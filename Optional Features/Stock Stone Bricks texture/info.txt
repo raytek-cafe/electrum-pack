@@ -1,0 +1,2 @@
+These are the original Programmer Art stone brick textures. By default this resource pack includes an alternative stone brick texture with tweaked contrast to better match the cobblestone and other blocks with beta aesthetics, but if you don't like it, you can switch to the original ones with these.
+To revert to the custom tweaked stone bricks, copy the files from the Revert folder to the root of the resource pack.

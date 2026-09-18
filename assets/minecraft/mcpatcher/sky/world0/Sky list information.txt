@@ -1,0 +1,14 @@
+Sky information
+
+Sky1 is Old Night Sky
+Sky2 is rain
+Sky3 is thunderstorm
+
+*****
+Information for rain.png, thunder.png
+
+They are used to solve a bug that occurs with Optifine:
+When using a custom sky such as sky0 (assets\minecraft\optifine\colormap\sky0),
+the sky becomes too saturated when it rains, snows or when there is thunder.
+
+rain.png and thunder.png restore the classic sky color.

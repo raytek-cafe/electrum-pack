@@ -1,0 +1,163 @@
+Old Light & Old Water v1.8.9_1 (for Minecraft 1.8.9) by Sencie
+https://www.planetminecraft.com/texture-pack/old-lighting-amp-old-water/
+
+The Ressource Pack brings back
+Old lighting (pre-Beta 1.8) Lighting is not colored but white.
+Old Water (pre-Beta 1.8) Classic Texture.
+Old Lava (pre-1.5) Classic lava texture.
+Old Grass & Foliage (between Alpha 1.2 and Beta 1.7.3) Greener in forests and in cold biomes.
+Old Day Sky (pre-Beta 1.8) Temperature variation for biomes.
+Old Night Sky (pre-Beta 1.5) Stars are brighter, larger and no moon phases.
+Old End Sky (Between 1.0.0 and 1.3.1) The sky is dark grey as it was when The End was released.
+
+OPTIFINE REQUIRED www.optifine.net/downloads 
+Make sure that Custom Color, Custom Sky and Emissive Textures are ON. 
+
+Recommendations for a classic experience:
+My other pack 'Old Sounds' https://www.planetminecraft.com/texture-pack/old-sounds-4911323/
+My add-on 'No Enchantment' (pack that removes enchantment glint & makes orbs silent and invisible as pre-1.0.0) https://www.planetminecraft.com/texture-pack/old-lighting-amp-old-water/
+FOV: 70
+Brightness: Moody
+Render Distance: 10 (normal) or less (short)
+Fog Start: 0.2
+Mipmap Levels: OFF
+Smooth Lighting: OFF (which is pre-Beta 1.3)
+Biome Blend: 3x3
+Attack Indicator: OFF
+Programmer Art pack or another retro pack:
+-Developer Art pack https://www.planetminecraft.com/texture-pack/developer-art-plus/
+-Classic Alternative pack https://www.planetminecraft.com/texture-pack/classic-alternative/
+-Golden Days https://www.planetminecraft.com/texture-pack/golden-days-beta-reversion-for-modern-minecraft/
+-Simpler Times https://www.planetminecraft.com/texture-pack/the-og-minecraft/
+
+Ressource packs, mods and tips that bring back the classic experience:[If these links are not working anymore, don't notify me.] 
+-Beta Days (Forge mod that can restore old Hud, remove sprint and more) https://www.curseforge.com/minecraft/mc-mods/beta-days
+-Fog override (Forge mod useful to customise nether fog) https://www.curseforge.com/minecraft/mc-mods/fog-overrides/files (My settings for the mod in .minecraft/config are 'Fog override' to match Pre-Beta 1.8: "Overworld Fog Density" = 0.015, "Nether Fog Density" = 0.015, "Lava Fog Density" = 0.45, "Water Fog Density" = 0.10)
+-Let me Sleep (Forge mod that allows mob spawning when sleeping as pre-1.0.0) https://www.curseforge.com/minecraft/mc-mods/let-me-sleep
+-Damage Tilt (Forge mod that restores old damage tilt) https://www.curseforge.com/minecraft/mc-mods/damage-tilt
+-Deactivate spawn of Phantom, Wandering Trader and Patrol at world creation or by changing level.dat with NBTExplorer with https://sourceforge.net/projects/nbtexplorer.mirror/
+
+*****
+Q&A
+How did you make this pack?
+I worked with side-by-side screenshot comparisons using previous versions of Minecraft to get the best results. I worked with 'Brightness: Moody'.
+
+Why is the Nether darker than normal Minecraft?
+Pre-Beta 1.8 Nether was darker and more scary. If it is too dark for you, you can adjust the Brightness setting.
+
+How do I get the Old Night Sky (between Beta 1.5 and 1.2.5)? I prefer when stars are less bright. 
+It is included in the pack. Just delete night.png, and rename greystars.png as night.png to use it.
+
+How can I get the sides of the grass block to not be affected by the biome temperature (pre-Beta 1.5)?
+It is included in the pack. Just delete grass_side_overlay.png and rename grass_side_overlay_graphics_fast.png as grass_side_overlay.png to have this.
+
+Can I use your pack for my own ressource pack?
+Yes. Please credit me (Sencie) with a link to my pack in your description.
+
+*****
+Changelog
+v1.17_1x (2021-07-12)
+Uploaded on CurseForge: v1.8.9_1 compatible with Minecraft 1.8.9
+
+v1.17_1 (2021-06-13)
+Updated to 1.17.
+
+v1.16_24 (2021-03-24)
+Old Day Sky improved in temperate biomes.
+
+v1.16_23 (2021-03-19)
+Old Day Sky improved in warm biomes.
+Added accurate rain color and thunderstorm color for warm biomes.
+
+v1.16_22 (2021-03-17)
+Old Water improved (the tint of underwater.png is improved)
+Add-on 'No Enchantment' improved (enchanted bottle contains invisible orbs for consistency)
+
+v1.16_21 (2021-03-13)
+Old Grass & Foliage improved: Added old Grass Block particles (pre-Beta 1.8).
+
+v1.16_20 (2021-03-11)
+Old Lighting improved: Ghast is brighter (pre-Beta 1.8).
+
+v1.16_19 (2021-03-08)
+Old Day Sky improved (rain, snow and thunderstorm fog looks better when using Render Distance: Far)
+Old Grass & Foliage improved (added grass_block_graphics_fast.json) This is the default side of grass blocks (pre-Beta 1.5). It is not affected by the biome temperature.
+To use it, delete grass_block.json and rename grass_block_graphics_fast.json as grass_block.json
+
+v1.16_18 (2021-03-04)
+Old Grass & Foliage improved: Sugar cane uses old color (pre-1.7.2).
+
+v1.16_17 (2021-03-03)
+Added Old Day Sky (pre-Beta 1.8): 
+Temperature variation for biomes.
+Rain and thunderstorm have an accurate color.
+Solved the Optifine glitch (sky is no longer too saturated when it rains).
+
+v1.16_16 (2021-02-28)
+Old Lighting improved: The eyes of Spider, Enderman, Phantom and Ender Dragon are less glowing (pre-1.15).
+
+v1.16_15 (2021-02-19)
+Old Night Sky improved: transition is smoother between day and night.
+
+v1.16_14 (2021-02-18)
+Old Night Sky improved :
+Stars are brighter (pre-Beta 1.5).
+Resolution increased.
+Stars shape improved. 
+Added greystars.png (between Beta 1.5 and 1.2.5) available in the pack. Rename it night.png if you want to use it.
+
+v1.16_13 (2021-01-25)
+Old Night Sky improved: removed moon phases (pre-1.0.0).
+
+v1.16_12 (2021-01-24)
+Added the add-on 'No Enchantment' (pre-1.0.0).
+Old Water improved: added invisible underwater particles (pre-Beta 1.8).
+Grass & Foliage improvement: grass block held in hand and in inventory has an accurate color.
+
+v1.16_11 (2021-01-23)
+Nether Fog improved: added invisible Nether air particles: ash, white_ash, crimson_spore, warped_spore.
+
+v1.16_10 (2021-01-22)
+Added Old Nether Fog. The fog has a darker tint (#1b0404 on screen) (pre-1.13.1) & no color variation for biomes (pre-1.16).
+
+v1.16_9 (2021-01-13)
+Old Night Sky improved (stars size reduced slightly to match pre-1.3.1).
+
+v1.16_8 (2021-01-09)
+Old Night Sky improved (accurate constellations & increased resolution).
+Underwater fog improved (it gets darker as we go deeper).
+Swamp water color restored.
+
+v1.16_7 (2021-01-06)
+Added Old Night Sky (pre-1.3.1) Stars are larger.
+
+v1.16_6 (2021-01-05)
+Added Nightvision.
+Overworld lightmap improved (caves darkness & surfaces at night both match pre-Beta 1.8).
+Nether lightmap improved to match pre-Beta 1.8.
+The End lightmap improved to match 1.0.0 (but whith white color).
+The End Sky noise improved (texture repetition is less visible).
+Grass & Foliage improved (grass is greener in cold biomes & forest biomes).
+
+v1.16_5 (2020-12-30)
+Improved Grass & Foliage with temperature variations for biomes.
+
+v1.16_4 (2020-12-29)
+Added Old Lava texture.
+Removed Grass & Foliage because not satisfied with them (temperature variations for biomes have been developed since Alpha 1.2).
+
+v1.16_3 (2020-12-28)
+Grass & Foliage experiment: no temperature variation for biomes.
+
+v1.16_2 (2020-12-24)
+Improvements:
+Water surface matches pre-1.13.
+Water overlay restored (water through glass is no more white).
+Underwater corrected.
+
+v1.16_1 (2020-12-20)
+Overworld surface at night matches pre-Beta 1.8. (caves are no more completely dark).
+The End sky improved (The End sky is darker with colorful noise).
+
+v1.16_0 (2020-12-08)
+Pack by Sencie

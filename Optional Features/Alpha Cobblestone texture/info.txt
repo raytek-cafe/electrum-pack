@@ -1,0 +1,2 @@
+This is the texture of cobblestone from the Alpha versions of Minecraft, with higher contrast.
+To revert to the original Alpha-like texture with the Programmer Art colorscheme, copy the files from the Revert folder to the root of the resource pack.

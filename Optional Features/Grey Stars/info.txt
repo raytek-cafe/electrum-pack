@@ -1,0 +1,2 @@
+This is the newer night sky (between Beta 1.5 and 1.2.5). Stars are more grey than the default old night sky (pre-Beta 1.5).
+To revert to the default pre-b1.5 sky, copy the files from the Revert folder to the root of the resource pack.
